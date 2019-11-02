@@ -1,7 +1,7 @@
 $(document).ready(function($) {
     "use strict";
-    initDom($);
-    
+    initDom($,"All");
+
     $("#pintoInit").click(function(){
         $('#container').pinto();
     });
@@ -9,6 +9,23 @@ $(document).ready(function($) {
     $("#pintoDestroy").click(function(){
         $('#container').pinto("destroy");
     });
+
+    $("#beauty").click(function () {
+        initDom($,"beauty");
+    });
+    $("#drug").click(function () {
+        initDom($,"drug");
+    });
+    $("#apparel").click(function () {
+        initDom($,"apparel");
+    });
+    $("#children").click(function () {
+        initDom($,"children");
+    });
+    $("#home").click(function () {
+        initDom($,"All");
+    });
+
 
 });
 
@@ -31,13 +48,17 @@ function objToDom(item){
        return dom;
 }
 
-function initDom($) {
+function initDom($,type) {
     $.getJSON("https://qfl0125.github.io/HKProduct/product/list.json",function (json,status) {
         var listData=new Array();
         for (var i = 0; i < json.length; i++) {
-            listData.push(objToDom(json[i]));
+            if(type==json[i].type||type=="All"){
+                listData.push(objToDom(json[i]));
+            }
+            
         }
         //
+       $('#container .item').remove();
        $('#container').append(listData).pinto({
         itemWidth:230,
         gapX:10,

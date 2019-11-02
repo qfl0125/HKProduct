@@ -15,12 +15,19 @@
 		"type":"drug",
 		"meg":260,
 		"heart":260
-	},
-		{
+	},{
 		"name":"华为P30",
-		"price":"3660(不含邮费)",
-		"description":"128G比",
+		"price":"3660",
+		"description":"128G",
 		"image":"hwP30.png",
+		"type":"apparel",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"澳洲DHA",
+		"price":"218",
+		"description":"怀孕的宝妈吃",
+		"image":"DHAyf.png",
 		"type":"apparel",
 		"meg":260,
 		"heart":260
