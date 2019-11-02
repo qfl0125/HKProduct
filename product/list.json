@@ -1,5 +1,110 @@
 [
+
 	{
+		"name":"UNNY卸妆水",
+		"price":"42",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"LCfengsui.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"兰蔻粉水",
+		"price":"288(400ml)/170(200ml)",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"LCfengsui.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"科颜氏的水",
+		"price":"260(250ml)/430(500ml)",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"kyssui.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"DHC润唇膏",
+		"price":"158",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"DHCrcg.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"资生堂的隔离",
+		"price":"158",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"zstgl.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"MAC口红(小辣椒)",
+		"price":"136",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"macxlj.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"MAC限量款化妆刷",
+		"price":"516($546)",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"machzs.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"爱德玛的卸妆水",
+		"price":"84",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"aidemasui.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"春雨面膜",
+		"price":"黄色70/黑色80/绿色70/白色73",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"chunyu.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"RAY面膜",
+		"price":"银色48/金色52",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"raymm.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"JM面膜",
+		"price":"49(1盒)/78(2盒)",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"Jm.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"Black Label面膜",
+		"price":"198(1盒)/418(3盒)",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"hmm.png",
+		"type":"beauty",
+		"meg":10,
+		"heart":10
+	},{
+		"name":"Dr.Jart(药丸面膜)",
+		"price":"90(1盒)/296(3盒)",
+		"description":"功能等我后续搜到来写。。。省略二十字",
+		"image":"djtywmm.png",
+		"type":"beauty",
+		"meg":260,
+		"heart":260
+	},{
 		"name":"绣花绣水乳套装",
 		"price":"528",
 		"description":"干皮敏感肌可用,巨好吸收,可以提亮肤色",
@@ -17,9 +122,17 @@
 		"heart":260
 	},{
 		"name":"华为P30",
-		"price":"3660",
-		"description":"128G",
+		"price":"3660(400ml)",
+		"description":"支持国内三网通，多国语言选择，国行的只能用简体中文；用谷歌服务",
 		"image":"hwP30.png",
+		"type":"apparel",
+		"meg":260,
+		"heart":260
+	},{
+		"name":"阿尼玛手表(满天星)",
+		"price":"3650(专柜，$4000)",
+		"description":"盒子不带，其他全部带回",
+		"image":"anmsb.png",
 		"type":"apparel",
 		"meg":260,
 		"heart":260
