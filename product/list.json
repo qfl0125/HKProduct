@@ -2,23 +2,26 @@
 	{
 		"name":"绣花绣水乳套装",
 		"price":"528",
-		"description":"干皮敏感肌可用,巨好吸收啊,可以提亮肤色",
+		"description":"干皮敏感肌可用,巨好吸收,可以提亮肤色",
 		"image":"xhxtz.png",
+		"type":"beauty",
 		"meg":260,
 		"heart":260
 	},{
-		"name":"绣花绣水乳套装",
-		"price":"528",
-		"description":"干皮敏感肌可用,巨好吸收啊,可以提亮肤色",
-		"image":"xhxtz.png",
+		"name":"黄道益",
+		"price":"47",
+		"description":"风痛骨痛、跌打扭伤、无名肿痛、手足抽筋、用力过度、腰椎劳损,推荐老人使用",
+		"image":"hdy.png",
+		"type":"drug",
 		"meg":260,
 		"heart":260
 	},
 		{
-		"name":"绣花绣水乳套装",
-		"price":"528",
-		"description":"干皮敏感肌可用,巨好吸收啊,可以提亮肤色",
-		"image":"xhxtz.png",
+		"name":"华为P30",
+		"price":"3660(不含邮费)",
+		"description":"128G比",
+		"image":"hwP30.png",
+		"type":"apparel",
 		"meg":260,
 		"heart":260
 	}
