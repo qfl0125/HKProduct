@@ -26,9 +26,9 @@
 	},{
 		"name":"澳洲DHA",
 		"price":"218",
-		"description":"怀孕的宝妈吃",
+		"description":"怀孕的宝妈吃,对胎儿智力和视力发育很重要",
 		"image":"DHAyf.png",
-		"type":"apparel",
+		"type":"children",
 		"meg":260,
 		"heart":260
 	}

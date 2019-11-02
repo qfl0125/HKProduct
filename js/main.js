@@ -22,7 +22,7 @@ $(document).ready(function($) {
     $("#children").click(function () {
         initDom($,"children");
     });
-    $("#home").click(function () {
+    $(".home").click(function () {
         initDom($,"All");
     });
 
@@ -49,6 +49,7 @@ function objToDom(item){
 }
 
 function initDom($,type) {
+   // $.getJSON("http://perryqiu.gitee.io/hkproduct/product/list.json",function (json,status) {
     $.getJSON("https://qfl0125.github.io/HKProduct/product/list.json",function (json,status) {
         var listData=new Array();
         for (var i = 0; i < json.length; i++) {
@@ -58,7 +59,7 @@ function initDom($,type) {
             
         }
         //
-       $('#container .item').remove();
+       $('#container div').remove();
        $('#container').append(listData).pinto({
         itemWidth:230,
         gapX:10,
